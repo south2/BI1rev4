@@ -21,13 +21,13 @@ http://www.thingiverse.com/thing:259780
 
 Data
 
-Atmel Attiny84 (8kbyte)
-LiPo charger (via USB)
-LiPo battery
-vibration motor (PWM controlled)
-BMA020 accelerometer
-two additional I/O ports
-ISP interface (2×3 pole header) for programming
-RFM12B (915 or 868 Mhz)
-approx.  22×35 mm
-open source hardware
+- Atmel Attiny84 (8kbyte)
+- LiPo charger (via USB)
+- LiPo battery
+- vibration motor (PWM controlled)
+- BMA020 accelerometer
+- two additional I/O ports  
+- ISP interface (2×3 pole header) for programming
+- RFM12B (915 or 868 Mhz)
+- approx.  22×35 mm
+- open source hardware
