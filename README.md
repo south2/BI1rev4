@@ -1,7 +1,7 @@
 BI1rev4
 =======
 
-BI1 revision 4 (myf14)
+BI1 revision 4 (myf14 evaluated, myf17 is work in progress)
 
 The “body interactor”(BI) is a printed circuit board (PCB) with a vibrator motor, an accelerometer, a LiPo battery and battery charger and wireless radio frequency (RF) communication. The board can be programmed with the Arduino software.
 
